@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="RahulDataDrivenMain 1.0" />
         <module name="RahulDataDrivenMain1.0" />
       </profile>
     </annotationProcessing>
